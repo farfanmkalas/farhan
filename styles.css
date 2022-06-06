@@ -1,0 +1,23 @@
+.login-form {
+  opacity: 0.6;
+}
+
+body{ 
+  background: no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
+#clock{
+  display: flex;
+  justify-content:center;
+  color: tomato;
+}
+.form{
+  margin-bottom: 30px;
+}
+window{
+  height: 1000px; 
+  width: 1000px;
+}
